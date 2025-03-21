@@ -1,6 +1,4 @@
 
-# Set up OpenAI API key
-# OPENAI_API_KEY = 'sk-t9URS_MBqXmFaR-RWJjZifnqDni28MVeqY8b42KUKvT3BlbkFJA6nItaA6XzIhnl3FtO0EqBJfYhUA7RKrCTQcEX-lIA'
  
 from doc_loader import Load_data
 from text_splites import Splitter
